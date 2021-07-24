@@ -1,0 +1,23 @@
+/**
+ * @name BiggerToolBar
+ * @version 1.0.0
+ * @description BiggerToolBar makes the discord titlebar more windows-y
+ * @author TheClashFruit
+ * @authorId 394888268446957569
+ * @source https://github.com/TheClashFruit/BiggerToolBar
+ * 
+ * @website https://theclashfruit.ga/
+*/
+
+.typeWindows-1za-n7 {
+  height: 28px;
+}
+
+.wordmarkWindows-1v0lYD {
+  top: auto;
+}
+
+.winButton-iRh8-Z {
+  height: 32px;
+  width: 46px;
+}
